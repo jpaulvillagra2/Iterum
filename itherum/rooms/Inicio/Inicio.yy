@@ -42,11 +42,11 @@
     "PhysicsWorldPixToMetres": 0.1,
   },
   "parent": {
-    "name": "Rooms",
-    "path": "folders/Rooms.yy",
+    "name": "Pantalla Inicio",
+    "path": "folders/Rooms/Pantalla Inicio.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Room1",
+  "name": "Inicio",
   "tags": [],
   "resourceType": "GMRoom",
 }
