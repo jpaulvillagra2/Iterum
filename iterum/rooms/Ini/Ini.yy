@@ -46,7 +46,7 @@
     "path": "folders/Rooms/Pantalla Inicio.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Inicio",
+  "name": "Ini",
   "tags": [],
   "resourceType": "GMRoom",
 }
